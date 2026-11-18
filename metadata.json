@@ -1,0 +1,6 @@
+{
+  "name": "FrameVault",
+  "description": "Unlimited photo and video dataset studio with local disk storage, virtualized curation, frame extraction, bounding-box annotation, and multi-format export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
